@@ -1,12 +1,12 @@
 {
     "clientVersionCode": 100,
     "gameFilesVersionCode": 100,
-    "URL_GAME_FILES" : "https://api.ru-state.online/test/game.zip",
-    "URL_GAME_FILES_UPD" : "https://dl.ru-state.online/gamefiles/files_upd.zip",
-    "URL_VK": "https://vk.com/cr_rustate",
-    "URL_DISCORD": "https://discord.gg/gtbqw8gbsC",
-    "URL_YOUTUBE": "https://t.me/bladegames_official",
-    "URL_FORUM": "https://f.ru-state.online/",
-    "URL_DONATE": "https://ru-state.online/donate",
-    "URL_CLIENT": "https://api.ru-state.online/test/client.apk"
+    "URL_GAME_FILES" : "http://a0749499.xsph.ru/game.zip",
+    "URL_GAME_FILES_UPD" : "https://",
+    "URL_VK": "https://vk.com/arbuzovo_samp",
+    "URL_DISCORD": "https://discord.gg/5fTKQPVx",
+    "URL_YOUTUBE": "https://discord.gg/5fTKQPVx",
+    "URL_FORUM": "http://wh6174.web2.maze-host.ru",
+    "URL_DONATE": "http://wh6174.web2.maze-host.ru/shop.html",
+    "URL_CLIENT": "https://"
 }
